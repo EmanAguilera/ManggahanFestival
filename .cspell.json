@@ -1,0 +1,31 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    // From your React app
+    "Sakura",
+    "Mochi",
+    "Pikachu",
+    "Gojo",
+    "Uzumaki",
+    "Guimaras",
+    "Manggahan",
+    "Manggayan",
+    "Dango",
+    "Instagrammable",
+    "Parfait",
+    "Mango",
+    "Matcha",
+    "Void",
+    "Colossal",
+
+    // From .gitignore (Firebase, Laravel, Python, custom paths)
+    "firestore",
+    "Laravel",
+    "fiambond",
+    "venv",
+    "pycache"
+  ],
+  "flagWords": [],
+  "ignorePaths": ["node_modules", "dist", "build"]
+}
