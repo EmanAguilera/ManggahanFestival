@@ -49,6 +49,12 @@ The application is built for ultimate speed and convenience in a busy festival e
 
 ---
 
+## 🎨 Design & Branding
+
+The logo and primary design assets (dango logo, favicon, and social media preview) were created using **Canva**. This allowed for rapid, professional design creation that matched the desired pink-to-purple gradient and anime aesthetic without requiring specialized graphic design software.
+
+---
+
 ## 🌐 Live Application
 
 Experience the live demo of the Manggahan Sweets online menu:
