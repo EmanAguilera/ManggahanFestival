@@ -18,6 +18,7 @@
     "Matcha",
     "Void",
     "Colossal",
+    "Canva",
 
     // From .gitignore (Firebase, Laravel, Python, custom paths)
     "firestore",
